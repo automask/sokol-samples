@@ -1,4 +1,3 @@
-.vscode/
 *.swp
 .DS_Store
 fips-files/build/
@@ -9,3 +8,5 @@ fips-files/deploy/
 *.pyc
 CMakeUserPresets.json
 #<fips
+config.bat
+node_modules
